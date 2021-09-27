@@ -58,4 +58,20 @@
       <br>  Result :<input type="number" id="result" value="<?= $result ?>" disabled>
     
     </form>
+    
+    
+   <?php 
+    
+
+
+
+    ?>
+
+
+
+
+</div>
+</body>
+</html>
+
 
